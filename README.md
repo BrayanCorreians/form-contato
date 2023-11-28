@@ -1,27 +1,19 @@
-# form-contato
+# tala login
 
  
 
 ## 📋 Sobre o projeto
-
- 
-
- O projeto Form-contato foi desenvolvido em sala na seguinte materia:
- * Fundamentos de desenvolvimento Web.
+TELA DE LOGINNS
 
 
 
  ## Como podemos utilizar esse projeto?
-
- 
-
- Esse projeto pode ser utilizado para entrar em Web site
+Vou utilizalo para dar continuidade em projeto futuro
 
  
 
 
 ## Técnicas e tecnologias utilizadas
-
 * Visual Studio Code
 * GIT HUB
 
